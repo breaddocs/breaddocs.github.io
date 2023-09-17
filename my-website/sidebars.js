@@ -35,19 +35,8 @@ const sidebars = {
         image: '<img src="img/atom.svg" alt="Atom" />',
       },
     },
-  // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
-    'intro',
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
+    // Continue with other sidebar items
   ],
-   */
 };
-
 
 module.exports = sidebars;
