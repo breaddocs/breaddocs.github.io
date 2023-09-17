@@ -29,7 +29,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Science',
-      items: ['science/science.md'], // Replace with your actual science section items
+      items: ['science/science'], // Replace with your actual science section items
       collapsed: false, // Set to true if you want the Science category to be initially collapsed
       customProps: {
         image: '<img src="img/atom.svg" alt="Atom" />',
