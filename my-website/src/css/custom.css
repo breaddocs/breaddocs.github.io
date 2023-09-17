@@ -8,8 +8,8 @@
 
 @font-face {
   font-family: 'input_sansregular';
-  src: url('fonts/inputsans-regular-webfont.woff2') format('woff2'),
-       url('fonts/inputsans-regular-webfont.woff') format('woff');
+  src: url('/fonts/inputsans-regular-webfont.woff2') format('woff2'),
+       url('/fonts/inputsans-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
