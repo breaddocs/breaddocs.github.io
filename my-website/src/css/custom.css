@@ -34,3 +34,15 @@
   border-bottom: 2px solid #136cff;
   background-color: #001d4c;
 }
+
+#__docusaurus [class^=docSidebarContainer] {
+  -webkit-border-end: 2px solid var #136cff;
+  background: linear-gradient(to right, #001d4c -100%, #000 150%); /* Updated background */
+  border-inline-end: 1px solid #136cff; /* Updated border-end color */
+  height: 100vh;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  will-change: auto;
+  box-shadow: 2px 0px 18px #136cff, -12px 0px 24px #000A; /* Added box shadow */
+}
