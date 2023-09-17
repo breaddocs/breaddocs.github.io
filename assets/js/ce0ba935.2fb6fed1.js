@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3890],{9489:e=>{e.exports=JSON.parse('{"title":"Science","slug":"/category/science","permalink":"/docs/category/science","navigation":{"previous":{"title":"Translate your site","permalink":"/docs/tutorial-extras/translate-your-site"},"next":{"title":"hello","permalink":"/docs/science/"}}}')}}]);
