@@ -5,7 +5,18 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@font-face {
+  font-family: 'input_sansregular';
+  src: url('fonts/inputsans-regular-webfont.woff2') format('woff2'),
+       url('fonts/inputsans-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 :root {
+  -ifm-font-family-base: 'input_sansregular';
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
