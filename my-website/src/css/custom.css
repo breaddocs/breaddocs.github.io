@@ -41,6 +41,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+html[data-theme='dark'] {
+  --ifm-background-color: #000000;
+}
+
 .navbar {
   background: linear-gradient(to bottom, #000C 0%, #0000 100%), repeating-linear-gradient(-45deg, #0000 0px, #0000 24px, #0008 24px, #0008 48px);
   border-bottom: 2px solid #136cff;
