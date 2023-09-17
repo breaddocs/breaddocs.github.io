@@ -37,7 +37,7 @@
 
 .menu.thin-scrollbar.menu_SIkG {
   -webkit-border-end: 2px solid #136cff;
-  background: linear-gradient(to right, #001d4c -100%, #000 150%); /* Updated background */
+  background: linear-gradient(to left, #000 -100%, #001d4c 150%);
   border-inline-end: 1px solid #136cff; /* Updated border-end color */
   height: 100vh;
   position: -webkit-sticky;
