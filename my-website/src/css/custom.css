@@ -16,7 +16,7 @@
 }
 
 :root {
-  -ifm-font-family-base: 'input_sansregular';
+  --ifm-font-family-base: 'input_sansregular';
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
