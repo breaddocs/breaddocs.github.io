@@ -44,5 +44,5 @@
   position: sticky;
   top: 0;
   will-change: auto;
-  box-shadow: 2px 0px 18px #136cff, -12px 0px 24px #000A; /* Added box shadow */
+  box-shadow: -2px 0px 18px #136cff, 12px 0px 24px #000A; /* Added box shadow */
 }
